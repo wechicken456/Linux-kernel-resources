@@ -479,6 +479,9 @@ See [xairy.io/trainings/](https://xairy.io/trainings/).
 [2022: "CVE-2022-2602: DirtyCred File Exploitation applied on an io_uring UAF"](https://1day.dev/notes/CVE-2022-2602-DirtyCred-File-Exploitation-applied-on-an-io_uring-UAF/) [article] [CVE-2022-2602]
 
 [2022: "DirtyCred Remastered: how to turn an UAF into Privilege Escalation"](https://exploiter.dev/blog/2022/CVE-2022-2602.html) [article] [CVE-2022-2602]
+- Some prereq readings (in order):
+	1. [2019: https://lwn.net/Articles/779472/] [article]
+	2. [2021: https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html] [CVE-2021-0920 Part 1]
 
 [2022: "Exploiting cross table object reference in Linux Netfilter table (NFT) module"](https://docs.google.com/presentation/d/1qcPPz9E_X3z5h_E-Cc7Qmy1ppP4hWjFZQCQ5ZCb9hw8/edit?usp=sharing) [slides] [CVE-2022-2078] [CVE-2022-2586]
 

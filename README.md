@@ -18,6 +18,7 @@ See [xairy.io/trainings/](https://xairy.io/trainings/).
 ## Contents
 
 - [Books](#books)
+- [Concepts](#concepts)
 - [Techniques](#techniques)
 	- [Exploitation](#exploitation)
 	- [Protection Bypasses](#protection-bypasses)
@@ -47,6 +48,8 @@ See [xairy.io/trainings/](https://xairy.io/trainings/).
 
 2012: "A Guide to Kernel Exploitation: Attacking the Core" by Enrico Perla and Massimiliano Oldani [[book](https://www.goodreads.com/book/show/9224826-a-guide-to-kernel-exploitation)] [[materials](https://github.com/yrp604/atc-sources)]
 
+## Concepts
+[Linux Virtual File System (VFS)](https://www.kernel.org/doc/html/latest/filesystems/vfs.html?highlight=inode)
 
 ## Techniques
 

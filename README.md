@@ -49,7 +49,13 @@ See [xairy.io/trainings/](https://xairy.io/trainings/).
 2012: "A Guide to Kernel Exploitation: Attacking the Core" by Enrico Perla and Massimiliano Oldani [[book](https://www.goodreads.com/book/show/9224826-a-guide-to-kernel-exploitation)] [[materials](https://github.com/yrp604/atc-sources)]
 
 ## Concepts
-[Linux Virtual File System (VFS)](https://www.kernel.org/doc/html/latest/filesystems/vfs.html?highlight=inode)
+### [Linux Virtual File System (VFS)](https://www.kernel.org/doc/html/latest/filesystems/vfs.html?highlight=inode)
+
+### io_uring
+<https://chomp.ie/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel>
+
+<https://anatomic.rip/cve-2023-2598/#poc>
+
 
 ## Techniques
 

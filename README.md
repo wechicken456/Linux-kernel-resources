@@ -53,8 +53,11 @@ See [xairy.io/trainings/](https://xairy.io/trainings/).
 
 ### io_uring
 [Authors' paper](https://kernel.dk/io_uring.pdf)
+
 (Examples of usage)[https://unixism.net/2020/04/io-uring-by-example-part-1-introduction/]
+
 <https://chomp.ie/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel>
+
 <https://anatomic.rip/cve-2023-2598/#poc>
 
 
